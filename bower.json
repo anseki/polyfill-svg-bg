@@ -1,0 +1,30 @@
+{
+  "name": "polyfill-svg-bg",
+  "version": "0.1.0",
+  "description": "Polyfill for IE to set SVG to CSS `background-image`.",
+  "keywords": [
+    "polyfill",
+    "ie",
+    "svg",
+    "css",
+    "background"
+  ],
+  "main": "polyfill-svg-bg.min.js",
+  "homepage": "http://anseki.github.io/polyfill-svg-bg/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anseki/polyfill-svg-bg.git"
+  },
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT",
+  "authors": [
+    "anseki <AnSeki.aff@gmail.com>"
+  ]
+}
