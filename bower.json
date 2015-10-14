@@ -1,6 +1,6 @@
 {
   "name": "polyfill-svg-bg",
-  "version": "0.1.0",
+  "version": "0.1.1-x",
   "description": "Polyfill for IE to set SVG to CSS `background-image`.",
   "keywords": [
     "polyfill",

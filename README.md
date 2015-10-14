@@ -1,5 +1,11 @@
 # Polyfill SVG as BG for IE
 
+***Use [polyfillSvgUri](https://github.com/anseki/polyfill-svg-uri) instead of this.***
+
+**This project was altered to [polyfillSvgUri](https://github.com/anseki/polyfill-svg-uri).**
+
+---
+
 Polyfill for IE to set SVG to CSS `background-image`.
 
 The plain SVG without Base64 encoding that is written in the CSS `background-image` is small size, readable and editable.
