@@ -10,7 +10,7 @@
     "background"
   ],
   "main": "polyfill-svg-bg.min.js",
-  "homepage": "http://anseki.github.io/polyfill-svg-bg/",
+  "homepage": "https://github.com/anseki/polyfill-svg-bg/",
   "repository": {
     "type": "git",
     "url": "git://github.com/anseki/polyfill-svg-bg.git"
